@@ -1,4 +1,4 @@
-package JewelryCrafter;
+package Fabhaz;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -18,7 +18,11 @@ import org.powerbot.script.rt4.Item;
 import java.util.concurrent.Callable;
 
 
-@Script.Manifest(name = "OS Jewellery Crafter", description = "Crafts Jewellery at Edgeville and Al Kharid")
+@Script.Manifest(
+        name = "Fab's OS Jewelry Crafter",
+        description = "Crafts all Jewelry at Edgeville or Al Kharid.",
+        properties = "author=Fabhaz;topic=1319500;client=4;"
+)
 
 public class JewelryCrafter extends PollingScript<ClientContext> implements PaintListener {
 

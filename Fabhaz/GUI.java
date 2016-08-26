@@ -1,4 +1,4 @@
-package JewelryCrafter;
+package Fabhaz;
 
 import javax.swing.*;
 import java.awt.*;

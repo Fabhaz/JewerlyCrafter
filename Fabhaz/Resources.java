@@ -1,4 +1,4 @@
-package JewelryCrafter;
+package Fabhaz;
 
 
 import org.powerbot.script.Tile;
